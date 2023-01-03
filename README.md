@@ -1,1 +1,1 @@
-# ReCoin
+# solana-npx-client-template
